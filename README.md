@@ -1,5 +1,4 @@
 # UniqueAI
-NLP, TensorFlow, PyTorch, Keras, Deep Learning.
 
 Hi everyone,
   I am starting my artificial intelligence development adventure using NLP, TensorFlow, PyTorch, Keras, Deep Learning. It will be a long and tiring process.
